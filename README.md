@@ -17,10 +17,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
-      </a>
-    </td>
     <td align="center">
       <a href="https://www.instagram.com/harrshhadaa/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fharrshhadaa%2F&subtitle=@harrshhadaa&size=square" alt="RAFIK SHAH">
